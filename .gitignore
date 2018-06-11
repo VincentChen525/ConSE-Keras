@@ -1,0 +1,5 @@
+.DS_Store
+glove.6B.50d.txt
+saved_models/*
+cifar-10*
+__pycache__
